@@ -1,1 +1,1 @@
-ROS-EAI-Working-Group
+Welcome to the github organization of the ROS EAI Working Group!
