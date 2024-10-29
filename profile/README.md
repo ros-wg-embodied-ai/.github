@@ -13,8 +13,9 @@ Adam Dabrowski (Robotec.ai), adam.dabrowski@robotec.ai, GitHub handle @adamdbrw.
 
 Large Language Models, Vision Language Models and AI Agent architectures are recent breakthrough technologies that most of you are familiar with. There are many gaps in Generative AI for robotics such as in spatial and temporal reasoning, dealing with imperfect perception and actuation, performance, size, liability, and so on. However, there are also important strengths and applications that are already quite reasonable, such as in human-robot interaction, high-level planning, inspections, lowering the skill gap of robot use, and diagnostics.
 
-## Projects (expressing interest so far)
+## Projects
 
+So far, the following project leads expressed interest in participating: 
 - [RAI](https://github.com/RobotecAI/rai)
 - [ROSA](https://github.com/nasa-jpl/rosa)
 - [ros2ai](https://github.com/fujitatomoya/ros2ai)
