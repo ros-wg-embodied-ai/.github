@@ -20,3 +20,6 @@ Large Language Models, Vision Language Models and AI Agent architectures are rec
 - [ros2ai](https://github.com/fujitatomoya/ros2ai)
 - [Llama ROS](https://github.com/mgonzs13/llama_ros)
 
+## Additional community resources
+
+Some of the projects in the space were presented at ROSCon 2024, the AI section starts with [RAI presentation](https://vimeo.com/1022195000#t=8h20m16s) and continues with ros2ai.
