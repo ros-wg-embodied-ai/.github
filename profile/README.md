@@ -1,4 +1,4 @@
-Welcome to ROS Embodied AI Community Group!
+Welcome to ROS Embodied AI Community Group! Please refer to our [documentation](https://docs.google.com/document/d/1GMWQins1LQjFvlmVgsAxAr0-5mtHv4RCLoJpv1xP3MM/edit?usp=sharing) for all the info you need to participate.
 
 ## Goal
 
