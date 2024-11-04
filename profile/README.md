@@ -3,7 +3,7 @@ Welcome to ROS Embodied AI Community Group! Please refer to our [living document
 ## Goal
 
 The group unites the open source community developing Generative AI frameworks, tools and applications for ROS ecosystem. It serves to
-align developments and as a platform to share experiences with novel technology, learning from other projects and applications, and collaborating towards common goals, new features, and integrations. We are also looking forward towards standarization efforts as the technology and projects mature.
+align developments and as a platform to share experiences with novel technology, learning from other projects and applications, and collaborating towards common goals, new features, and integrations. We are also looking forward towards standardization efforts as the technology and projects mature.
 
 ## Group lead
 
