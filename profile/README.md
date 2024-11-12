@@ -24,3 +24,7 @@ So far, the following project leads expressed interest in participating:
 ## Additional community resources
 
 Some of the projects in the space were presented at ROSCon 2024, the AI section starts with [RAI presentation](https://vimeo.com/1022195000#t=8h20m16s) and continues with ros2ai.
+
+- [awesome-embodied-ai-ros](https://github.com/ros-wg-embodied-ai/awesome-embodied-ai-ros) - the curated list of repositories and papers on Embodied AI in ROS ecosystem.
+- [https://ros-wg-embodied-ai.github.io/resources](https://ros-wg-embodied-ai.github.io/resources) - Github Pages for the ROS Embodied AI Community Group links and resources
+
