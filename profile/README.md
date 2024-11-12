@@ -1,4 +1,4 @@
-Welcome to ROS Embodied AI Community Group! Please refer to our [living document](https://docs.google.com/document/d/1GMWQins1LQjFvlmVgsAxAr0-5mtHv4RCLoJpv1xP3MM/edit?usp=sharing) for meeting notes, planning and agenda.
+Welcome to ROS Embodied AI Community Group! Please refer to our [living document](https://docs.google.com/document/d/1GMWQins1LQjFvlmVgsAxAr0-5mtHv4RCLoJpv1xP3MM/edit?usp=sharing) for **meeting link**, notes, planning and agenda.
 
 ## Goal
 
