@@ -1,5 +1,8 @@
 Welcome to ROS Embodied AI Community Group! Please refer to our [living document](https://docs.google.com/document/d/1GMWQins1LQjFvlmVgsAxAr0-5mtHv4RCLoJpv1xP3MM/edit?usp=sharing) for **meeting link**, notes, planning and agenda.
 
+For communication with the group, please join the discord server :
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/n2znP3BjCf)](https://discord.gg/n2znP3BjCf)
+
 ## Goal
 
 The group unites the open source community developing Generative AI frameworks, tools and applications for ROS ecosystem. It serves to
