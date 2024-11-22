@@ -2,7 +2,7 @@ Welcome to ROS Embodied AI Community Group! Please refer to our [living document
 
 For communication with the group, join the discord server:
 
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/n2znP3BjCf)](https://discord.gg/n2znP3BjCf)
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/3PGHgTaJSB)](https://discord.gg/3PGHgTaJSB)
 
 ## Goal
 
