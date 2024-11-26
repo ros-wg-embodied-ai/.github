@@ -1,8 +1,6 @@
-Welcome to ROS Embodied AI Community Group! Please refer to our [living document](https://docs.google.com/document/d/1GMWQins1LQjFvlmVgsAxAr0-5mtHv4RCLoJpv1xP3MM/edit?usp=sharing) for **meeting link**, notes, planning and agenda.
+Welcome to ROS Embodied AI Community Group!
 
-For communication with the group, join the discord server:
-
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/3PGHgTaJSB)](https://discord.gg/3PGHgTaJSB)
+**Next meeting: 11 Dec 2024 at 16:00 UTC (08:00 am PST): [meeting link and Agenda](https://docs.google.com/document/d/1GMWQins1LQjFvlmVgsAxAr0-5mtHv4RCLoJpv1xP3MM/edit?tab=t.0#heading=h.djfm065n25dz)**
 
 ## Goal
 
@@ -12,6 +10,14 @@ align developments and as a platform to share experiences with novel technology,
 ## Group lead
 
 Adam Dabrowski (Robotec.ai), adam.dabrowski@robotec.ai, GitHub handle @adamdbrw.
+
+## Meeting link, agenda, notes
+
+Please refer to our [document](https://docs.google.com/document/d/1GMWQins1LQjFvlmVgsAxAr0-5mtHv4RCLoJpv1xP3MM/edit?usp=sharing) for **meeting link**, notes, planning and agenda.
+
+## Community server
+
+For communication with the group, join our [discord server](https://discord.gg/3PGHgTaJSB).
 
 ## Background
 
