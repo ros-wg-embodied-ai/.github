@@ -2,7 +2,7 @@ Welcome to ROS Embodied AI Community Group!
 
 We meet on second Wednesday each month at **16:00 UTC (08:00 am PST)**.
 
-**Next meeting: 12 March 2025 at 16:00 UTC (08:00 am PST):**
+**Next meeting: 9 April 2025 at 16:00 UTC (08:00 am PST):**
 - [Meeting link (MS Teams)](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzYyZDA2NWUtMTgwYy00NjhhLWFjZDAtNDRkMWZhMDQyMjZk%40thread.v2/0?context=%7b%22Tid%22%3a%224d3bb0db-5e86-4bfe-a87a-4c37871b4d75%22%2c%22Oid%22%3a%225b36b2b7-454f-4050-b794-83e7fca4479d%22%7d)
 - Agenda:
   - TBD
