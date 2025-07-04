@@ -8,6 +8,7 @@ We meet on second Wednesday each month at **16:00 UTC (09:00 am PST)**.
   - Note: you are welcome to comment on the [agenda](https://docs.google.com/document/d/1GMWQins1LQjFvlmVgsAxAr0-5mtHv4RCLoJpv1xP3MM/edit?tab=t.0#heading=h.djfm065n25dz) to suggest your presentation.
 - All notes are in the [meeting document](https://docs.google.com/document/d/1GMWQins1LQjFvlmVgsAxAr0-5mtHv4RCLoJpv1xP3MM/edit?tab=t.0#heading=h.djfm065n25dz)
 
+<iframe src="https://calendar.google.com/calendar/embed?src=f2c8ed49c43b0db56a68fc262845ce347ad377e2b53f273feaeed825aa175338%40group.calendar.google.com&ctz=Europe%2FWarsaw" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Goal
 
