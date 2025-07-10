@@ -2,7 +2,7 @@ Welcome to ROS Embodied AI Community Group!
 
 We meet on second Wednesday each month at **16:00 UTC (09:00 am PST)**.
 
-**Next meeting: 9 July 2025 at 16:00 UTC (09:00 am PST):**
+**Next meeting: 13 August 2025 at 16:00 UTC (09:00 am PST):**
 - Meeting link (Google Meet): https://meet.google.com/rkb-xsff-ouw, [calendar invite](https://calendar.google.com/calendar/u/1?cid=ZjJjOGVkNDljNDNiMGRiNTZhNjhmYzI2Mjg0NWNlMzQ3YWQzNzdlMmI1M2YyNzNmZWFlZWQ4MjVhYTE3NTMzOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 - Agenda in the meeting document.
   - Note: you are welcome to comment on the [agenda](https://docs.google.com/document/d/1GMWQins1LQjFvlmVgsAxAr0-5mtHv4RCLoJpv1xP3MM/edit?tab=t.0#heading=h.djfm065n25dz) to suggest your presentation.
